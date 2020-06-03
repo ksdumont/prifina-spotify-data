@@ -2,13 +2,13 @@ import React from "react";
 
 const Nav = () => {
   return (
-    <nav class="navbar navbar-light bg-light">
-      <a class="navbar-brand" href="#">
+    <nav className="navbar navbar-light bg-light">
+      <a className="navbar-brand" href="/">
         <img
           src="/images/PrifinaVectorIcon.png"
           width="30"
           height="30"
-          class="d-inline-block align-bottom"
+          className="d-inline-block align-bottom"
           alt=""
           loading="lazy"
         />{" "}
