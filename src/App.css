@@ -4,3 +4,10 @@
 .primary-text {
   color: #1e1d1d;
 }
+.top-100 {
+  background: #00847a;
+}
+.modal-title {
+  color: #00847a;
+  font-weight: 600;
+}
